@@ -1,5 +1,5 @@
 # Downloads-pdf
-Download all pdf files in web
+Download all pdf files in web,
 Downloads-pdf Is a tool written in Python, that allows you to download all pdf files in web
 Downloads-pdf tool uses several packages:
 * requests
